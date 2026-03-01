@@ -1,0 +1,37 @@
+.forget-card {
+  width: auto;
+  margin: auto;
+  box-shadow: 1rem 1rem 1rem #cbced1, -1rem -1rem 1rem #fff
+}
+
+.forget-card-body {
+  background-color: #ecf0f3;
+
+}
+
+.form-field {
+  padding-left: 0.5rem;
+  margin-bottom: 2rem;
+  height: 3rem;
+  border-radius: 0;
+  border: none;
+  outline: none;
+  box-shadow: inset 1em 1em 1em #cbced1,
+    inset -1em -1em 1em #fff;
+}
+
+.form-field .fas {
+  color: #555;
+}
+
+.form-field input {
+  width: 100%;
+  display: block;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.2rem;
+  color: #666;
+  padding: 1rem 1rem 0.8rem 0.8rem;
+
+}
