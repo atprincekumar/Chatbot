@@ -1,7 +1,0 @@
-{
-  "name": "gupshup",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
