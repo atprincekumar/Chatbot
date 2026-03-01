@@ -1,0 +1,18 @@
+.footer{
+    height: 3%;
+    width: 100%;
+    color: white;
+    background-color: #2f5d62;
+    padding: 1rem
+}
+
+#unsec-footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+    background-color: #2f5d62 !important;
+    height: 4%;
+}
